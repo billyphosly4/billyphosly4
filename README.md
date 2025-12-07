@@ -66,7 +66,7 @@
 
 ## Stargazers
 
-[![Stargazers](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.ph&repo=billyphosly4&theme=Kenya)]()
+[![Stargazers](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=billyphosly4&repo=billyphosly4&theme=algolia)]() 
 
 Leave a ⭐ from [here](https://github.com/billyphosly4) if you like 😁
 
