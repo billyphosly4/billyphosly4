@@ -13,12 +13,15 @@ I am a passionate **Full Stack Software Engineer** and freelancer dedicated to b
 * 💼 **Current Status:** Full-stack freelancer creating tailored web solutions for clients.
 * 🎓 **Education:** Computer Science student at Masinde Muliro University of Science and Technology (MMUST).
 * 🌱 **Core Projects:** * **PrimeSmsHub:** A secure user dashboard providing virtual phone number configurations.
-    * **Lavel AI:** Building next-generation visual chat interfaces powered by integrated LLM pipelines.
+  * **Lavel AI:** Building next-generation visual chat interfaces powered by integrated LLM pipelines.
 * 👯 **Collaboration:** Open-source projects, frontend optimization, and AI model integrations.
 * 📫 **Reach Me Directly:** [billyphosly4@gmail.com](mailto:billyphosly4@gmail.com)
 
 ---
 
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=algolia&borderColor=0052FF" alt="Dev Jokes Card" />
+</p>
 ### 🛠️ Tech Stack & Tooling
 
 <table align="center" width="100%">
@@ -57,11 +60,11 @@ I am a passionate **Full Stack Software Engineer** and freelancer dedicated to b
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=billyphosly4&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=billyphosly4&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=billyphosly4&theme=algolia&show_icons=true&count_private=true&hide_title=true" alt="Overall GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=billyphosly4&theme=algolia&show_icons=true&count_private=true&hide_title=true" alt="Overall GitHub Stats" />
 </p>
 
 <p align="center">
@@ -79,7 +82,7 @@ I am a passionate **Full Stack Software Engineer** and freelancer dedicated to b
   <a href="https://linkedin.com/in/billy-phosly-37267b394" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.tiktok.com/@billyphosly" target="blank">
+  <a href="https://www.tiktok.com/@billy_phosly" target="blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=61573897072145" target="blank">
@@ -92,8 +95,4 @@ I am a passionate **Full Stack Software Engineer** and freelancer dedicated to b
 
 <p align="center">
   ⭐ Drop a star on my repositories if you like my work!
-</p>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=algolia&borderColor=white" alt="Dev Jokes Card" />
 </p>
