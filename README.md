@@ -61,7 +61,7 @@ I am a passionate **Full Stack Software Engineer** and freelancer dedicated to b
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=billyphly4&theme=algolia&show_icons=true&count_private=true&hide_title=true" alt="Overall GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=billyphosly4&theme=algolia&show_icons=true&count_private=true&hide_title=true" alt="Overall GitHub Stats" />
 </p>
 
 <p align="center">
@@ -73,11 +73,14 @@ I am a passionate **Full Stack Software Engineer** and freelancer dedicated to b
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/bildad" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="https://wa.me/254117345789" target="blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://linkedin.com/in/billy-phosly-37267b394" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.tiktok.com/@billyphosly" target="blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=61573897072145" target="blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
