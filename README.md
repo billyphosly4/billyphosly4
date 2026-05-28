@@ -1,75 +1,96 @@
-
 <h1 align="center"> Je programme, donc j'existe. 👨‍💻 </h1>
- <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%91%8B+Hi,+I'm+Bildad+Ochieng;Passionate+Problem+Solver;👩‍💻+++Front-End+Developer;Software+Engineer;Freelancer;Open-Source+Enthusiast" alt="Headline" />
- </div>
 
- <br>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0052FF&size=24&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%91%8B+Hi,+I'm+Bildad+Ochieng+(Billy);Full+Stack+Software+Engineer;MERN+%26+Next.js+Developer;Passionate+Problem+Solver;Freelance+Web+Developer" alt="Headline Typing SVG" />
+</div>
 
-**About me**
+---
 
-- 👩‍💻 Frontend developer
+### 🚀 About Me
 
-- 👯 I want to collaborate on open-source projects and frontend application development.
+I am a passionate **Full Stack Software Engineer** and freelancer dedicated to building high-performance, responsive web applications and custom AI systems. Whether I'm designing dynamic interfaces with React/Next.js or configuring secure backends and databases, I love solving complex structural problems with clean code.
 
+* 💼 **Current Status:** Full-stack freelancer creating tailored web solutions for clients.
+* 🎓 **Education:** Computer Science student at Masinde Muliro University of Science and Technology (MMUST).
+* 🌱 **Core Projects:** * **PrimeSmsHub:** A secure user dashboard providing virtual phone number configurations.
+    * **Lavel AI:** Building next-generation visual chat interfaces powered by integrated LLM pipelines.
+* 👯 **Collaboration:** Open-source projects, frontend optimization, and AI model integrations.
+* 📫 **Reach Me Directly:** [billyphosly4@gmail.com](mailto:billyphosly4@gmail.com)
 
-- 📫 My Email: **Billyphosly4@gmail.com**
+---
 
-- 😂 Here is a random joke that'll make you laugh!
+### 🛠️ Tech Stack & Tooling
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=algolia&borderColor=white)
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>💻 Frontend</h4>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    </td>
+    <td width="33%" valign="top">
+      <h4>⚙️ Backend & DB</h4>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+    </td>
+    <td width="34%" valign="top">
+      <h4>🔧 Tools & OS</h4>
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white" alt="Vagrant" />
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/profile.php?id=61573897072145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jahsbaby" height="30" width="40" /></a>
+---
 
-<a href="https://www.instagram.com/bildad962?igsh=MTh4Z3R0Z2NvNGh6Ng==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jahsbaby" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/
-billy-phosly-37267b394
-==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="jahsbaby" height="30" width="40" /></a
+### 📊 GitHub Analytics & Metric Trackers
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=billyphosly4&theme=algolia" alt="GitHub Streak Stats" />
 </p>
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-  <img loading="lazy" height="40" width="40" title="Bash" src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash Shell icon" />
-  <img loading="lazy" height="40" width="40" title="Html" src="https://cdn.simpleicons.org/html5/E34F26" alt="html5 icon" />
-  <img loading="lazy" height="40" width="40" title="JavaScript" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript icon" />
-  <img loading="lazy" height="40" width="40" title="React" src="https://cdn.simpleicons.org/react/FF0FF" alt="React icon" />
+<p align="center">
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=billyphosly4&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
 </p>
 
-<h3 align="left">Tools:</h3>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" title="git" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> </a>
-  <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" title="slack" height="40"/> </a>
-  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" title="vagrant" height="40"/> </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" title="github" height="40"/> </a>
-  <img loading="lazy" height="40" width="40" title="Trello" src="https://cdn.simpleicons.org/trello/0079BF" alt="Trello icon" />
-  <img loading="lazy" height="40" width="40" title="Ubuntu" src="https://cdn.simpleicons.org/ubuntu/E95420" alt="Ubuntu icon" />
- 
- 
- 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=billyphly4&theme=algolia&show_icons=true&count_private=true&hide_title=true" alt="Overall GitHub Stats" />
 </p>
 
-<br>
-
-<h3 align=left>My GitHub Stats</h3>
- <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=billyphosly4&theme=algolia" alt="jahsbaby" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=billyphosly4&theme=algolia&height=250&custom_title=My%20Contribution%20Graph" alt="Billy's Contribution Graph" />
 </p>
 
-<p align="left">
-   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=billyphosly4&layout=compact&langs_count=8&theme=algolia" alt="jahsbaby" />
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/bildad" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/254117345789" target="blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61573897072145" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/bildad962?igsh=MTh4Z3R0Z2NvNGh6Ng==" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=billyphosly4&theme=algolia&show_icons=true&count_private=true&hide_title=true)
+<p align="center">
+  ⭐ Drop a star on my repositories if you like my work!
+</p>
 
-## Stargazers
-
-[![Stargazers](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=billyphosly4&repo=billyphosly4&theme=algolia)]() 
-
-Leave a ⭐ from [here](https://github.com/billyphosly4) if you like 😁
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thesongmartins&theme=high-contrast&height=250&custom_title=My%20Contribution%20Graph" alt="GitHub Activity Graph"># billyphosly4-
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=algolia&borderColor=white" alt="Dev Jokes Card" />
+</p>
