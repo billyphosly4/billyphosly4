@@ -60,8 +60,8 @@ I am a passionate **Full Stack Software Engineer** and freelancer dedicated to b
 </p>
 
 <p align="center">
-  <img src="https://vercel.app" alt="Top Languages" height="165" />
-  <img src="https://vercel.app" alt="Overall GitHub Stats" height="165" />
+  <img src="https://shion.dev" alt="Top Languages" height="165" />
+  <img src="https://shion.dev" alt="Overall GitHub Stats" height="165" />
 </p>
 
 
