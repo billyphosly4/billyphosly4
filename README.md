@@ -59,11 +59,11 @@ I am a passionate **Full Stack Software Engineer** and freelancer dedicated to b
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=billyphosly4&theme=algolia" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://shion.dev" alt="Top Languages" height="165" />
-  <img src="https://shion.dev" alt="Overall GitHub Stats" height="165" />
-</p>
 
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="165" />
+  <img src="./profile/stats.svg" alt="Overall GitHub Stats" height="165" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=billyphosly4&theme=algolia&height=250&custom_title=My%20Contribution%20Graph" alt="Billy's Contribution Graph"/>
