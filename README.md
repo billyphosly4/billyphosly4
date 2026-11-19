@@ -60,15 +60,15 @@ I am a passionate **Full Stack Software Engineer** and freelancer dedicated to b
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=billyphosly4&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=billyphosly4&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=billyphosly4&theme=algolia&show_icons=true&count_private=true&hide_title=true" alt="Overall GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=billyphosly4&theme=algolia&show_icons=true&count_private=true&hide_title=true" alt="Overall GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=billyphosly4&theme=algolia&height=250&custom_title=My%20Contribution%20Graph" alt="Billy's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=billyphosly4&theme=algolia&height=250&custom_title=My%20Contribution%20Graph" alt="Billy's Contribution Graph"/>
 </p>
 
 ---
